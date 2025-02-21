@@ -1,0 +1,13 @@
+# Solidity & Node.js
+node_modules/
+truffle-config.js
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# OS Specific
+.DS_Store
+Thumbs.db
